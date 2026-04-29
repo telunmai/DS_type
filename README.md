@@ -105,8 +105,7 @@ If you use this code, please cite the manuscript describing the phenotype-filter
 
 ---
 
-Jung-Chen Su, Chen-Ling Lee, Fan-Wei Yang, Yan-Chih Chen, and Te-Lun Mai*
-"Network-based exploration of 4-(Phenylsulfonyl)morpholine molecules for metastatic triple-negative breast cancer suppression", under review.
+Jung-Chen Su, Chen-Ling Lee, Fan-Wei Yang, Yan-Chih Chen, and Te-Lun Mai* (2026). "Network-based exploration of 4-(phenylsulfonyl) morpholine molecules for metastatic triple-negative breast cancer suppression." PLOS Computational Biology, 22(3), e1014132.
 
 ---
 
